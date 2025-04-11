@@ -83,9 +83,11 @@ hiremohitforsoftwarerole@gmail.com | [GitHub](https://github.com/PaperBoardOffic
 - Utilized Redis for caching to improve performance of GET requests
 
 ### [Narrative File Processing System](https://github.com/PaperBoardOfficial/narrative-assignment)
-- Built a scalable text processing application with Python backend and TypeScript frontend
-- Implemented efficient file transformation service for handling multiple file formats
-- Designed responsive UI for configuration management and monitoring
+- Built a scalable text processing application with Python/Django backend and TypeScript/React frontend
+- Implemented Celery for asynchronous task processing with RabbitMQ as message broker
+- Designed a chunking system to efficiently process large CSV files (4GB+) by splitting them into manageable pieces
+- Created a responsive UI for file uploads and processing status monitoring
+- Utilized Docker and Docker Compose for containerized deployment of the entire application stack
 
 ### [Scalex Book Management System](https://github.com/PaperBoardOfficial/scalex-assignment)
 - Developed a Go-based book management system with authentication and authorization
