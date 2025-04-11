@@ -58,7 +58,7 @@ hiremohitforsoftwarerole@gmail.com | [GitHub](https://github.com/PaperBoardOffic
 - Fixed screenshot flickering issues by dynamically adjusting window size based on screen resolution ([PR #740](https://github.com/browser-use/browser-use/pull/740))
 - Enhanced PDF file streaming capabilities ([PR #626](https://github.com/browser-use/browser-use/pull/626))
 - Improved click element action with retry mechanisms and navigation handling ([PR #726](https://github.com/browser-use/browser-use/pull/726))
-- Added Slack integration for notifications ([PR #409](https://github.com/browser-use/browser-use/pull/409))
+- Added Slack integration for browser-use ([PR #409](https://github.com/browser-use/browser-use/pull/409))
 - Fixed DOM tree rendering issues for empty anchor tags ([PR #641](https://github.com/browser-use/browser-use/pull/641))
 
 ### [SuperGlue](https://github.com/superglue-ai/superglue) | Contributor
