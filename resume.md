@@ -73,6 +73,8 @@ hiremohitforsoftwarerole@gmail.com | [GitHub](https://github.com/PaperBoardOffic
 - Implemented linting configuration for consistent code style ([PR #34](https://github.com/steel-dev/surf.new/pull/34))
 
 ### [Repomix](https://github.com/yamadashy/repomix) | Contributor
+- Added ZIP file upload functionality with drag-and-drop support ([PR #353](https://github.com/yamadashy/repomix/pull/353))
+- Removed generation timestamp to reduce AI API costs ([PR #348](https://github.com/yamadashy/repomix/pull/348))
 - Added folder upload functionality with drag-and-drop support ([PR #387](https://github.com/yamadashy/repomix/pull/387))
 
 ## Technical Assignments & Projects
