@@ -101,7 +101,7 @@ hiremohitforsoftwarerole@gmail.com | [GitHub](https://github.com/PaperBoardOffic
 - Implemented dynamic DOM manipulation and event handling
 - Developed asynchronous JavaScript functions for improved user experience
 
-### [PomoSpace](https://github.com/PaperBoardOfficial/PomoSpace) | Creator & Developer
+### [Fruit](https://github.com/PaperBoardOfficial/Fruit) | Creator & Developer
 - Developing a comprehensive productivity mobile application that combines Pomodoro technique, spaced repetition learning, and habit tracking
 - Built with Expo, React Native, Zustand for state management, and NativeWind for styling
 - Implementing features for time management, learning optimization, and habit formation in a single integrated platform
